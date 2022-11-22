@@ -6,4 +6,4 @@ Up thread button - mipped.com (XenForo-based forum)
 
 https://greasyfork.org/en/scripts/455241-up-thread-button-mipped-com?locale_override=1
 
-![](https://github.com/rdavydov/mipped.com-up-thread/blob/main/Screenshot_1.png?raw=true)
+![](https://github.com/rdavydov/mipped.com-up-thread/blob/main/Screenshot_2.png?raw=true)
